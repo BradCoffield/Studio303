@@ -101,7 +101,8 @@ input, select, textarea {
 	body {
 		background-color: #476777;
 		background-attachment: scroll,									fixed;
-		background-image: url("../../images/overlay.png"), url("../../images/bg.jpg");
+		background-image: url("../../images/overlay.png"), url("../../images/luke-chesser-3rWagdKBF7U-unsplash.jpg");
+		/* background-image: url("../../images/overlay.png"), url("../../images/bg.jpg"); */
 		background-position: top left,								top center;
 		background-repeat: repeat,									no-repeat;
 		background-size: 256px,									cover;
