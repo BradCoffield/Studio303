@@ -12,15 +12,22 @@ module.exports = function (eleventyConfig) {
       "png",
       "gif",
       "ico",
-      "js"
+      "svg",
+      "otf",
+      "eot",
+      "ttf",
+      "woff",
+      "woff2"
     ]);
   
     return {
       dir: {
-        input: "./src", 
-        output: "_site",
+        input: "./src",
+        output: "_site", // Equivalent to Jekyll's destination property
       },
-       
+      passthroughFileCopy: true,
+      includes: "_includes",
+      layouts: "_layouts",
     };
   };
   

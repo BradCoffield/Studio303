@@ -1,0 +1,11 @@
+{
+    "title": "Studio303",
+    "url": "https://www.studio303.dev",
+    "baseurl": "",
+    "repo": "https://github.com/BradCoffield/Studio303",
+    "comments": false,
+    "author": {
+      "name": "Brad Coffield"
+    },
+    "og_locale": "en_US"
+  }
