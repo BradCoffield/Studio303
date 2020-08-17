@@ -1,37 +1,13 @@
 <!DOCTYPE HTML>
-<!--
-	Hologram by Pixelarity
-	pixelarity.com | hello@pixelarity.com
-	License: pixelarity.com/license
--->
+
 <html>
-	<head>
-		<title>Untitled</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-	</head>
+
+	{%include head.html%}
 	<body class="is-preload">
 
-		<!-- Header -->
-			<header id="header">
-				<a href="#menu">Menu</a>
-				<a href="#">Log In</a>
-				<a href="#" class="button">Sign Up</a>
-			</header>
+		{%include header.html%}
 
-		<!-- Nav -->
-			<nav id="menu">
-				<ul class="links">
-					<li><a href="index.html">Home</a></li>
-					<li><a href="generic.html">Generic</a></li>
-					<li><a href="elements.html">Elements</a></li>
-				</ul>
-				<ul class="actions stacked">
-					<li><a href="#" class="button primary fit">Log In</a></li>
-					<li><a href="#" class="button fit">Sign Up</a></li>
-				</ul>
-			</nav>
+	{%include nav.html%}
 
 		<!-- Main -->
 			<section id="main" class="wrapper style1">
@@ -52,34 +28,9 @@
 				</div>
 			</section>
 
-		<!-- Footer -->
-			<footer id="footer">
-				<ul class="alt-icons">
-					<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-					<li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
-					<li><a href="#" class="icon fa-github"><span class="label">GitHub</span></a></li>
-					<li><a href="#" class="icon fa-phone"><span class="label">Phone</span></a></li>
-					<li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
-				</ul>
-				<ul class="menu">
-					<li><a href="#">Terms of Use</a></li>
-					<li><a href="#">Privacy Policy</a></li>
-					<li><a href="#">Contact Us</a></li>
-				</ul>
-				<p class="copyright">
-					&copy; Untitled Corp. All rights reserved. Lorem ipsum dolor sit amet nullam.
-				</p>
-			</footer>
+			{%include footer.html%}
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			{%include scripts.html%}
 
 	</body>
 </html>
