@@ -1,1 +1,17 @@
 .fa-cubes, .fa-diamond{font-size: 32px;}
+
+.clearfix:before,
+.clearfix:after {
+  content: "";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.clearfix {
+  zoom: 1; /* ie 6/7 */
+}
+
+.mt-x{margin-top:4rem;}
