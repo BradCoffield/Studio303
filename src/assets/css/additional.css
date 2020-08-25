@@ -14,4 +14,20 @@
   zoom: 1; /* ie 6/7 */
 }
 
-.mt-x{margin-top:4rem;}
+.mt-x{margin-top:5rem;}
+
+.pricing {font-weight: bold;text-emphasis: italic;}
+
+ul.actions.special-2 {
+  -moz-justify-content: center;
+  -webkit-justify-content: center;
+  -ms-justify-content: center;
+  justify-content: left;
+  margin-left: 0;
+ }
+
+
+ul.actions.special-2 li {
+  padding: 0 0 0 0!important;
+  vertical-align: middle;
+}
