@@ -18,6 +18,7 @@ collections:
    fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "general.njk"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Date", name: "date", widget: "date", default: ""}
       - {label: "Post Body", name: "body", widget: "markdown"}
