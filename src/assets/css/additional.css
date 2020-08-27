@@ -31,3 +31,10 @@ ul.actions.special-2 li {
   padding: 0 0 0 0!important;
   vertical-align: middle;
 }
+
+.nice-green{
+  background-color: #7fb0a6;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+}
