@@ -15,10 +15,10 @@ offering_one_content: We can build you a new site from scratch, improve or fix y
 	License: pixelarity.com/license
 -->
 <html>
-  {%include head.html%}
+  {% include 'head.html' %}
   <body class="landing is-preload">
     <!-- Header -->
-    {%include header.html%} {%include nav.html%}
+    {% include 'header.html' %} {% include 'nav.html' %}
 
     <!-- Banner -->
     <section id="banner">
@@ -267,7 +267,7 @@ offering_one_content: We can build you a new site from scratch, improve or fix y
       </div>
     </section>
 
-    {%include footer.html%} {%include scripts.html%}
+    {% include 'footer.html' %} {% include 'scripts.html' %}
     <script>
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", (user) => {
