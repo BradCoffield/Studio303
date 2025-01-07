@@ -13,7 +13,7 @@ First, speed. When I talk about speed what I mean is how quickly does the site l
 
 One analogy I heard is a slow loading website is like a long line at the drive-thru, many people will just go somewhere else for lunch or coffee. And if they choose to endure the wait it certainly affects their view of the business.
 
-If people leave before even giving you a chance… well no magic can happen! Fortunately, Studio303 specializes in the creation of static websites (as opposed to things like WordPress or site builders) which, among their chief benefits, is the way they enable speed-minded developers (like us!) to make your site literally as speedy as possible. You can read more about why we choose to work exclusively with static website technologies here.
+If people leave before even giving you a chance… well no magic can happen! Fortunately, Studio303 specializes in the creation of static websites (as opposed to things like WordPress or site builders) which, among their chief benefits, is the way they enable speed-minded developers (like us!) to make your site literally as speedy as possible. You can read more about why we choose to work exclusively with static website technologies [here](/articles/2025-01-07-why-we-build-static-websites/).
 
 ## Design
 
