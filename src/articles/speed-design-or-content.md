@@ -3,6 +3,7 @@ layout: general.njk
 title: Speed, Design, or Content?
 description: "A successful website requires getting a lot of things right. "
 date: 2025-01-07
+lastEdited: 2025-01-08
 ---
 There’s a lot that goes into a successful website and I was considering which of the three, speed, content, or design could be considered **most** important. 
 Let’s consider these in the order that I would argue they impact your user.

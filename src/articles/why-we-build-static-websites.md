@@ -3,7 +3,8 @@ layout: general.njk
 title: Why We Build Static Websites (And Why You Should Care)
 subtitle: "Here's our subtitle!"
 description: "Studio303 only builds static websites. This article helps to explain why."
-date: 2025-01-07
+date: 2025-01-01
+lastEdited: 2025-01-05
 ---
 Let's talk about the technology powering this (and possibly, eventually, your) website. I know... technical discussions can be mind-numbing. I promise to make this as not-uninteresting as possible. And it’s an important topic because it really does impact your organization, sales, conversions, and engagement. Oh, and your peace of mind. How? Read on.
 
