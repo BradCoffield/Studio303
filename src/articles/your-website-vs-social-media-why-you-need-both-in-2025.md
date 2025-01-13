@@ -1,12 +1,11 @@
 ---
 layout: general.njk
-title: Your Website vs. Social Media: Why You Need Both in 2025
+title: "Your Website vs. Social Media: Why You Need Both in 2025"
 subtitle: ""
 description: "Choose both."
 date: 2025-01-13
 lastEdited: 2025-01-13
 ---
-
 Remember when everyone said social media would make websites obsolete? Well, it's 2025, and something interesting has happened instead. Let's talk about why the smartest small businesses are doubling down on **both** their websites and social media – and why choosing between them is like choosing between your right and left hand.
 
 ## The Social Media Mirage
